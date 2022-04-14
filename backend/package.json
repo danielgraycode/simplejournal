@@ -1,0 +1,19 @@
+{
+  "name": "simplejournal-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgraycode/simplejournal.git"
+  },
+  "author": "Daniel Gray <me@danielgray.email> (https://danielgray.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielgraycode/simplejournal/issues"
+  },
+  "homepage": "https://github.com/danielgraycode/simplejournal#readme"
+}
